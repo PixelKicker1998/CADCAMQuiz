@@ -1,0 +1,1430 @@
+[
+  {
+    "question": "Welche alternativen Bezeichnungen gibt es für 3D-Druckverfahren?",
+    "answers": [
+      {
+        "text": "Subtraktive Fertigung",
+        "correct": false
+      },
+      {
+        "text": "Rapid Prototyping",
+        "correct": true
+      },
+      {
+        "text": "Computer Aided Manufacturing (CAM)",
+        "correct": false
+      },
+      {
+        "text": "Additive Fertigung",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Welche Materialien werden vor allem im 3D-Druck verarbeitet?",
+    "answers": [
+      {
+        "text": "Kunststoffe",
+        "correct": true
+      },
+      {
+        "text": "Keramiken (in gesinterter Endform)",
+        "correct": false
+      },
+      {
+        "text": "Metalle",
+        "correct": true
+      },
+      {
+        "text": "Composite",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Was war der ursprüngliche Einsatzzweck des 3D-Drucks in der Industrie?",
+    "answers": [
+      {
+        "text": "Herstellung von funktionalen Endprodukten",
+        "correct": false
+      },
+      {
+        "text": "Herstellung von reinen Anschauungsobjekten ohne Funktion",
+        "correct": true
+      },
+      {
+        "text": "Entwicklung von kostengünstigen Geräten",
+        "correct": false
+      },
+      {
+        "text": "Verarbeitung von druckbaren Keramiken",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist der aktuelle Stand der Entwicklung im Bereich druckbarer Keramiken für die Zahnmedizin?",
+    "answers": [
+      {
+        "text": "Sie sind bereits allgemein in der wirtschaftlichen Anwendung.",
+        "correct": false
+      },
+      {
+        "text": "Es gibt noch keine wirtschaftlich verwendbaren Geräte auf dem Markt, die Materialien befinden sich in der Erprobung.",
+        "correct": true
+      },
+      {
+        "text": "Sie haben keine besondere Bedeutung für die Zahnmedizin.",
+        "correct": false
+      },
+      {
+        "text": "Sie werden ausschließlich in flüssiger Form verarbeitet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wann und wo fand der 3D-Druck seine erste Anwendung in der Chirurgie?",
+    "answers": [
+      {
+        "text": "Ab 1990 bei der Herstellung von gedruckten anatomischen Modellen.",
+        "correct": true
+      },
+      {
+        "text": "Ab 1982 mit der Vorstellung von AutoCAD.",
+        "correct": false
+      },
+      {
+        "text": "Erst nach 2010 mit der Entwicklung von SLA-Druckern.",
+        "correct": false
+      },
+      {
+        "text": "In den 1950er-Jahren am MIT.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Auf welchen Patientendaten basieren die ersten gedruckten anatomischen Modelle?",
+    "answers": [
+      {
+        "text": "Digitalen Volumentomografien (DVT).",
+        "correct": true
+      },
+      {
+        "text": "Intraoralen Scannerdaten.",
+        "correct": false
+      },
+      {
+        "text": "Konventionellen Röntgenbildern.",
+        "correct": false
+      },
+      {
+        "text": "Computertomografischen Aufnahmen (CT).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Welche Gründe gibt es, warum sich Planungsmethoden mithilfe gedruckter Modelle in der Chirurgie noch nicht allgemein durchgesetzt haben?",
+    "answers": [
+      {
+        "text": "Mangelndes Fachpersonal in diesem Bereich.",
+        "correct": true
+      },
+      {
+        "text": "Wirtschaftliche Gründe (aufgebrachte Zeit für individuelle Behandlung).",
+        "correct": true
+      },
+      {
+        "text": "Fehlende Integration in die Ausbildung aller Beteiligten.",
+        "correct": true
+      },
+      {
+        "text": "Zu hohe Anschaffungskosten der verwendeten Geräte.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Vorteile der gedruckten Modelle und Schablonen in der Chirurgie gibt es?",
+    "answers": [
+      {
+        "text": "Eingriffe können vorab trainiert werden.",
+        "correct": true
+      },
+      {
+        "text": "Operationen sind präziser und schneller durchführbar.",
+        "correct": true
+      },
+      {
+        "text": "Die Endergebnisse sind besser vorherzusagen.",
+        "correct": true
+      },
+      {
+        "text": "Sie ermöglichen die abdruck- und gipsfreie Herstellung von Prothesen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist einer der Hauptgründe, warum der 3D-Druck in der Zahnmedizin schnell Anwendung fand?",
+    "answers": [
+      {
+        "text": "Die Zahnmedizin arbeitete schon immer patientenindividuell und in Form von Einzelstücken.",
+        "correct": true
+      },
+      {
+        "text": "Die Anschaffungskosten für die 3D-Drucker sind im zahnmedizinischen Bereich besonders gering.",
+        "correct": false
+      },
+      {
+        "text": "Das Fehlen von Fachpersonal forderte eine Automatisierung.",
+        "correct": false
+      },
+      {
+        "text": "Der geringe Materialverbrauch spielt hier keine Rolle.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche klassischen Herstellungsverfahren werden in der Zahnmedizin durch das selektive Laserschmelzen (SLM) verdrängt?",
+    "answers": [
+      {
+        "text": "Das Fräsen von Werkstücken.",
+        "correct": true
+      },
+      {
+        "text": "Das händische Gießen von Werkstücken aus Metallen.",
+        "correct": true
+      },
+      {
+        "text": "Die konventionelle Abformung.",
+        "correct": false
+      },
+      {
+        "text": "Die Ausarbeitung und Eingliederung von Zahnersatz.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wie wird das Wachsausschmelzverfahren beschrieben, wenn 3D-Druck im Spiel ist?",
+    "answers": [
+      {
+        "text": "Körper aus Wachsen oder Polymeren werden gedruckt, ausgebrannt und der Hohlraum durch Metallguss in das Werkstück überführt.",
+        "correct": true
+      },
+      {
+        "text": "Das Verfahren wird komplett durch den 3D-Druck ersetzt.",
+        "correct": false
+      },
+      {
+        "text": "Es handelt sich um ein rein subtraktives Verfahren.",
+        "correct": false
+      },
+      {
+        "text": "Es wird nur für die Herstellung von Kronen und Brücken aus Keramik verwendet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Vorteile bietet der 3D-Druck bei der Herstellung von Aufbissschienen?",
+    "answers": [
+      {
+        "text": "Reproduzierbarkeit.",
+        "correct": true
+      },
+      {
+        "text": "Kostengünstige Herstellung.",
+        "correct": true
+      },
+      {
+        "text": "Möglichkeit, Einschleifmaßnahmen auf neue Schienen zu übertragen.",
+        "correct": true
+      },
+      {
+        "text": "Die Schienen sind von Natur aus abdruck- und gipsfrei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was hat die Entwicklung neuer Photopolymere in der Zahnmedizin ermöglicht?",
+    "answers": [
+      {
+        "text": "Die Herstellung von Langzeitprovisorien, die dauerhaft im Mund verbleiben dürfen.",
+        "correct": true
+      },
+      {
+        "text": "Das Verdrängen des selektiven Laserschmelzens (SLM).",
+        "correct": false
+      },
+      {
+        "text": "Besseres In-Suspension-Halten von Festpartikeln.",
+        "correct": true
+      },
+      {
+        "text": "Die ausschließliche Verarbeitung von reinem Metall.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wie wird die Herstellung von Prothesen durch den 3D-Druck beschrieben?",
+    "answers": [
+      {
+        "text": "Die Basis und die Zähne werden in einem einzigen Druckvorgang aus Keramik hergestellt.",
+        "correct": false
+      },
+      {
+        "text": "Die Prothesenherstellung ist jetzt komplett analog.",
+        "correct": false
+      },
+      {
+        "text": "Basis und Zähne werden separat gedruckt oder konfektioniert gekauft und dann miteinander verbunden.",
+        "correct": true
+      },
+      {
+        "text": "Der Vorgang unterscheidet sich nicht von der konventionellen Herstellung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Funktion erfüllen gedruckte Bohrschablonen in der Implantologie?",
+    "answers": [
+      {
+        "text": "Sie ermöglichen es, Implantate gezielt zu inserieren.",
+        "correct": true
+      },
+      {
+        "text": "Sie werden zur Planung von chirurgischen Eingriffen verwendet.",
+        "correct": false
+      },
+      {
+        "text": "Sie ermöglichen Behandlungen im Sinne eines „Backward Planning“.",
+        "correct": true
+      },
+      {
+        "text": "Sie dienen ausschließlich der Herstellung von provisorischem Zahnersatz.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist die Grundlage jeder gedruckten Apparatur und wodurch wird diese erstellt?",
+    "answers": [
+      {
+        "text": "Die Punktewolke, erstellt durch einen Laborscanner.",
+        "correct": false
+      },
+      {
+        "text": "Die Konstruktionsdatei, erstellt durch rechnerunterstütztes Konstruieren (CAD).",
+        "correct": true
+      },
+      {
+        "text": "Der G-Code.",
+        "correct": false
+      },
+      {
+        "text": "Die STL-Datei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welches Unternehmen und welches Programm werden als Ursprung des rechnerunterstützten Konstruierens (CAD) genannt?",
+    "answers": [
+      {
+        "text": "Autodesk mit AutoCAD ab 1982.",
+        "correct": false
+      },
+      {
+        "text": "General Motors (GMC) mit dem Programm DAC-1 ab 1963.",
+        "correct": true
+      },
+      {
+        "text": "3D System mit dem SLA-1.",
+        "correct": false
+      },
+      {
+        "text": "MIT mit dem G-Code.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Grundprinzipien liegen allen Verfahren zur Erstellung dreidimensionaler Konstruktionen zugrunde?",
+    "answers": [
+      {
+        "text": "Konstruieren mit Skizzen.",
+        "correct": true
+      },
+      {
+        "text": "Das Prinzip des Backward Planning.",
+        "correct": false
+      },
+      {
+        "text": "Dreidimensionales Konstruieren von Körpern.",
+        "correct": true
+      },
+      {
+        "text": "Die Erstellung von 2D-Zeichnungen (ähnlich dem Zeichenbrett).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was beschreibt das indirekte Modellieren in der Zahnmedizin, vergleichbar mit dem „Reverse Engineering“?",
+    "answers": [
+      {
+        "text": "Das direkte Konstruieren des Objekts passend zum digitalen Modell.",
+        "correct": false
+      },
+      {
+        "text": "Die Akquise der Rohdaten, indem ein vorhandenes Objekt durch einen optischen 3D-Scanner erfasst wird.",
+        "correct": true
+      },
+      {
+        "text": "Das Schneiden des Ausgangsobjekts in horizontale Schichten.",
+        "correct": false
+      },
+      {
+        "text": "Die Umwandlung der Konstruktionsdatei in eine STL-Datei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Scannertypen werden für intraorale Geräte verwendet?",
+    "answers": [
+      {
+        "text": "Lasersysteme.",
+        "correct": false
+      },
+      {
+        "text": "Streifenlichtsysteme.",
+        "correct": true
+      },
+      {
+        "text": "Doppelkamerasysteme.",
+        "correct": true
+      },
+      {
+        "text": "Computertomografische Aufnahmen (CT).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist der Vorgang, bei dem die Drucksoftware das Ausgangsobjekt in horizontale Schichten schneidet, und wie lautet die Programmiersprache für die Arbeitsanweisung?",
+    "answers": [
+      {
+        "text": "Der Vorgang ist 'FDM', die Sprache ist 'Python'.",
+        "correct": false
+      },
+      {
+        "text": "Der Vorgang ist 'Slicing', die Sprache ist der 'G-Code'.",
+        "correct": true
+      },
+      {
+        "text": "Der Vorgang ist 'Reverse Engineering', die Sprache ist 'STL'.",
+        "correct": false
+      },
+      {
+        "text": "Der Vorgang ist 'CAD', die Sprache ist 'OBJ'.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Informationen können im G-Code enthalten sein?",
+    "answers": [
+      {
+        "text": "Geschwindigkeiten und Positionen.",
+        "correct": true
+      },
+      {
+        "text": "Temperaturen und Belichtungszeiten.",
+        "correct": true
+      },
+      {
+        "text": "Die Darstellung von Oberflächen durch Polyeder.",
+        "correct": false
+      },
+      {
+        "text": "Informationen über die Druckqualität und Hilfsstrukturen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist die Folge einer dünneren Schichthöhe beim 3D-Druck?",
+    "answers": [
+      {
+        "text": "Es entstehen glattere Objekte.",
+        "correct": true
+      },
+      {
+        "text": "Die Druckzeit verlängert sich erheblich.",
+        "correct": true
+      },
+      {
+        "text": "Es entsteht ein stärker ausgeprägtes „Treppenmuster“.",
+        "correct": false
+      },
+      {
+        "text": "Die vertikale Auflösung des Druckers sinkt.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welchen Vorteil bietet das entstehende „Treppenmuster“ auf der Oberfläche des gedruckten Objekts in der festsitzenden Zahnmedizin?",
+    "answers": [
+      {
+        "text": "Es ermöglicht die Darstellung gekrümmter Oberflächen.",
+        "correct": false
+      },
+      {
+        "text": "Es entsteht eine Retention, durch die der Zement zum Einsetzen von Zahnersatz besser haftet.",
+        "correct": true
+      },
+      {
+        "text": "Es führt zu einer Reduktion der Dateigröße.",
+        "correct": false
+      },
+      {
+        "text": "Es minimiert den durch den Druck entstehenden Verzug des Objekts.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Dateiformate werden für den Export aus Konstruktionsprogrammen verwendet?",
+    "answers": [
+      {
+        "text": "STL-Dateien (.stl).",
+        "correct": true
+      },
+      {
+        "text": "G-Code-Dateien (.gcode).",
+        "correct": false
+      },
+      {
+        "text": "Wavefront OBJ-Dateien (.obj).",
+        "correct": true
+      },
+      {
+        "text": "3MF-Format (.3mf).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Welches Dateiformat ist bis heute am weitesten für den 3D-Druck verbreitet?",
+    "answers": [
+      {
+        "text": "Das OBJ-Format.",
+        "correct": false
+      },
+      {
+        "text": "Das 3MF-Format.",
+        "correct": false
+      },
+      {
+        "text": "Das STL-Format.",
+        "correct": true
+      },
+      {
+        "text": "Das CT-Format.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was beschreibt die Abkürzung STL ursprünglich, und welche nachträglichen Bezeichnungen gibt es?",
+    "answers": [
+      {
+        "text": "Standard Tessellation Language.",
+        "correct": true
+      },
+      {
+        "text": "Stereolithografie.",
+        "correct": true
+      },
+      {
+        "text": "Standard Triangle Language.",
+        "correct": true
+      },
+      {
+        "text": "Selective Laser Melting.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wie werden die Oberflächen von Körpern durch STL-Dateien beschrieben?",
+    "answers": [
+      {
+        "text": "In Form von Dreiecks- oder Vierecksfacetten.",
+        "correct": true
+      },
+      {
+        "text": "Durch die Speicherung geometrischer Eigenschaften wie Ecken und Normalen.",
+        "correct": false
+      },
+      {
+        "text": "Durch fortlaufend geschriebenen G-Code.",
+        "correct": false
+      },
+      {
+        "text": "Als Punktewolke.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist der Hauptunterschied in der Speicherung von Informationen zwischen STL- und OBJ-Dateien?",
+    "answers": [
+      {
+        "text": "OBJ-Dateien speichern geometrische Eigenschaften wie Ecken und Normalen, während STL die Oberfläche durch Facetten beschreibt.",
+        "correct": true
+      },
+      {
+        "text": "STL-Dateien speichern auch Farbinformationen, während OBJ dies nicht tut.",
+        "correct": false
+      },
+      {
+        "text": "OBJ-Dateien führen zu größeren Dateigrößen als STL.",
+        "correct": false
+      },
+      {
+        "text": "STL-Dateien enthalten die ursprüngliche Konstruktionsinformation, OBJ nicht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welches Druckverfahren ist das am häufigsten in der Industrie eingesetzte und findet Anwendung in der Raumfahrt?",
+    "answers": [
+      {
+        "text": "Fused Deposition Modeling (FDM).",
+        "correct": false
+      },
+      {
+        "text": "Stereolithografie (SLA).",
+        "correct": false
+      },
+      {
+        "text": "Selektives Laserschmelzen (SLM).",
+        "correct": true
+      },
+      {
+        "text": "Digital Light Processing (DLP).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was sind die Kernschritte beim selektiven Laserschmelzen (SLM)?",
+    "answers": [
+      {
+        "text": "Auftragen eines flüssigen Photopolymers und Aushärten mit UV-Licht.",
+        "correct": false
+      },
+      {
+        "text": "Herstellung des Objekts aus einem Pulver, das Schicht für Schicht durch einen Laser aufgeschmolzen wird.",
+        "correct": true
+      },
+      {
+        "text": "Auftragen von geschmolzenem Filament durch einen Extruder.",
+        "correct": false
+      },
+      {
+        "text": "Vorwärmen des Bauraums und des Pulvertanks bis kurz vor den Schmelzpunkt.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Was wird beim SLM durch das Vorheizen des Bauraums und des Pulvertanks erreicht?",
+    "answers": [
+      {
+        "text": "Es wird deutlich weniger Energie für den Laser benötigt.",
+        "correct": true
+      },
+      {
+        "text": "Thermische Unterschiede werden minimiert.",
+        "correct": true
+      },
+      {
+        "text": "Der durch den Druck entstehende Verzug des Objekts wird minimiert.",
+        "correct": true
+      },
+      {
+        "text": "Das Material wird dadurch nicht mehr gereinigt werden müssen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Funktion haben dünne Stützstrukturen beim SLM-Verfahren, obwohl das Objekt theoretisch komplett von Pulver umgeben ist?",
+    "answers": [
+      {
+        "text": "Sie werden zur besseren Verteilung der Wärme während des Druckvorgangs benötigt.",
+        "correct": true
+      },
+      {
+        "text": "Sie verhindern, dass das Pulver zu schnell abkühlt.",
+        "correct": false
+      },
+      {
+        "text": "Sie helfen, die Verformung und Spannung zu reduzieren.",
+        "correct": true
+      },
+      {
+        "text": "Sie dienen zur Befestigung des Objekts an der Bauplattform.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Nachbearbeitungsschritte fallen nach dem SLM-Druck an?",
+    "answers": [
+      {
+        "text": "Befreien des Werkstücks vom Pulver und Reinigung.",
+        "correct": true
+      },
+      {
+        "text": "Entfernen noch vorhandener Stützstrukturen.",
+        "correct": true
+      },
+      {
+        "text": "Eine Wärmebehandlung bei Metallen zur Beseitigung von Spannungen.",
+        "correct": true
+      },
+      {
+        "text": "Eine Endhärtung durch UV-Licht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Für welche Anwendungen in der Mund-Kiefer-Gesichtschirurgie (MKG) ist das SLM-Verfahren von Bedeutung?",
+    "answers": [
+      {
+        "text": "Individuelle Titannetze zur Knochenaugmentation.",
+        "correct": true
+      },
+      {
+        "text": "Herstellung von keramischem Zahnersatz.",
+        "correct": false
+      },
+      {
+        "text": "Individuelle Osteosyntheseplatten.",
+        "correct": true
+      },
+      {
+        "text": "Ersatz von Teilen oder gesamten Kiefern.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Welches Verfahren gilt als das älteste additive Fertigungsverfahren, dessen Patent 1984 angemeldet wurde?",
+    "answers": [
+      {
+        "text": "Selektives Laserschmelzen (SLM).",
+        "correct": false
+      },
+      {
+        "text": "Fused Deposition Modeling (FDM).",
+        "correct": false
+      },
+      {
+        "text": "Stereolithografie (SLA).",
+        "correct": true
+      },
+      {
+        "text": "Digital Light Processing (DLP).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist ein Nachteil des SLA-Verfahrens, der bei der Herstellung von Totalprothesen relevant ist?",
+    "answers": [
+      {
+        "text": "Die Bauplattform muss ständig abgesenkt werden.",
+        "correct": false
+      },
+      {
+        "text": "Es kann nur ein Material auf einmal gedruckt werden, was das Zusammenfügen verschiedener Teile notwendig macht.",
+        "correct": true
+      },
+      {
+        "text": "Die erzeugten Oberflächen sind sehr rau.",
+        "correct": false
+      },
+      {
+        "text": "Es benötigt sehr hohe Schichtstärken.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Durch welche Komponenten werden die SLA-, DLP- und MSLA-Druckverfahren vereinfacht unterteilt?",
+    "answers": [
+      {
+        "text": "Bewegung der Druckplattform.",
+        "correct": true
+      },
+      {
+        "text": "Aushärtung durch einen Laser mit beweglichem Spiegel (SLA).",
+        "correct": true
+      },
+      {
+        "text": "Aushärtung durch einen Projektor (DLP).",
+        "correct": true
+      },
+      {
+        "text": "Aushärtung durch LEDs und eine LCD-Maske (MSLA).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Was ist das Druckmaterial, das bei den Verfahren SLA, DLP und MSLA verwendet wird?",
+    "answers": [
+      {
+        "text": "Ein Pulver aus Metall oder Kunststoff.",
+        "correct": false
+      },
+      {
+        "text": "Ein lichtaushärtender Kunststoff (Photopolymer).",
+        "correct": true
+      },
+      {
+        "text": "Ein Filament aus Thermoplasten.",
+        "correct": false
+      },
+      {
+        "text": "Eine druckbare Keramikpaste.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Wellenlängen verwenden die Laser in SLA-Druckern, um das Photopolymer auszuhärten?",
+    "answers": [
+      {
+        "text": "385 nm.",
+        "correct": true
+      },
+      {
+        "text": "532 nm.",
+        "correct": false
+      },
+      {
+        "text": "405 nm.",
+        "correct": true
+      },
+      {
+        "text": "780 nm.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Schritte sind nach dem Druckvorgang beim SLA-Verfahren notwendig, bevor das Objekt einsatzbereit ist?",
+    "answers": [
+      {
+        "text": "Das Objekt muss von überschüssigem Harz mit einem Lösungsmittel (z.B. Isopropanol) gereinigt werden.",
+        "correct": true
+      },
+      {
+        "text": "Eine Wärmebehandlung muss zur Beseitigung von Spannungen erfolgen.",
+        "correct": false
+      },
+      {
+        "text": "Das Objekt muss in einer speziellen Einheit mit UV-Licht endgehärtet werden.",
+        "correct": true
+      },
+      {
+        "text": "Entfernen der Stützstrukturen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Welche gängigen Schichtstärken werden im SLA-Verfahren verwendet?",
+    "answers": [
+      {
+        "text": "Zwischen 1,0 und 2,0 mm.",
+        "correct": false
+      },
+      {
+        "text": "Zwischen 0,5 und 0,9 mm.",
+        "correct": false
+      },
+      {
+        "text": "Zwischen 0,025 und 0,3 mm.",
+        "correct": true
+      },
+      {
+        "text": "Höher als 10 mm.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Aussage trifft auf die Verwendung der Schichtstärken in der Zahnmedizin zu?",
+    "answers": [
+      {
+        "text": "Für Zahnersatz werden meist die dünnsten Schichtstärken verwendet.",
+        "correct": true
+      },
+      {
+        "text": "Für einfache Modelle oder Schablonen werden wegen der Zeitersparnis höhere Schichtstärken verwendet.",
+        "correct": true
+      },
+      {
+        "text": "Die Schichtstärke ist immer konstant und kann nicht individuell angepasst werden.",
+        "correct": false
+      },
+      {
+        "text": "Dünnere Schichten erhöhen die Druckgeschwindigkeit.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Komponenten machen das MSLA-Verfahren kosteneffizienter als DLP und SLA?",
+    "answers": [
+      {
+        "text": "Die Verwendung eines UV-Lasers anstelle eines DLP-Projektors.",
+        "correct": false
+      },
+      {
+        "text": "Die Verwendung einer LCD-Maske und UV-LEDs anstelle eines teuren Projektors oder Lasers.",
+        "correct": true
+      },
+      {
+        "text": "Die Nutzung von Pulver statt Harz.",
+        "correct": false
+      },
+      {
+        "text": "Die komplette Eliminierung von Stützstrukturen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist das Material, das beim Fused Deposition Modeling (FDM) in der Regel verwendet wird?",
+    "answers": [
+      {
+        "text": "Flüssiges Photopolymerharz.",
+        "correct": false
+      },
+      {
+        "text": "Metallpulver.",
+        "correct": false
+      },
+      {
+        "text": "Filament (Draht) auf einer Spule.",
+        "correct": true
+      },
+      {
+        "text": "Keramische Schlicker.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welches sind die wesentlichen Nachteile des FDM-Verfahrens für Präzisionsanwendungen in der Zahnmedizin?",
+    "answers": [
+      {
+        "text": "Geringere Genauigkeit.",
+        "correct": true
+      },
+      {
+        "text": "Die Notwendigkeit, Stützstrukturen manuell zu entfernen.",
+        "correct": true
+      },
+      {
+        "text": "Der hohe Anschaffungspreis des Druckers.",
+        "correct": false
+      },
+      {
+        "text": "Die Notwendigkeit eines Pulverbades.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was beschreibt der Begriff 'Backward Planning' im Kontext der Implantologie mithilfe des 3D-Drucks?",
+    "answers": [
+      {
+        "text": "Der Therapieweg wird durch das Behandlungsziel vorgegeben.",
+        "correct": true
+      },
+      {
+        "text": "Die Planung erfolgt erst nach der Herstellung der Bohrschablone.",
+        "correct": false
+      },
+      {
+        "text": "Das Behandlungsziel wird an die Machbarkeit des Druckers angepasst.",
+        "correct": false
+      },
+      {
+        "text": "Die Bohrschablonen werden analog hergestellt.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welchen Vorteil bietet die Herstellung von individuellen Abformlöffeln mittels 3D-Druck?",
+    "answers": [
+      {
+        "text": "Kosteneffiziente und modellfreie Herstellung.",
+        "correct": false
+      },
+      {
+        "text": "Materialersparnis des teuren Abformmaterials.",
+        "correct": true
+      },
+      {
+        "text": "Die korrekte Aufbereitung gebrauchter Löffel wird erleichtert (hygienischer Aspekt).",
+        "correct": false
+      },
+      {
+        "text": "Sie werden zur Übertragung von Einschleifmaßnahmen verwendet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was geschieht bei der Umwandlung von Oberflächendaten (Punktewolke) in eine STL-Datei?",
+    "answers": [
+      {
+        "text": "Die Oberflächen werden in Form von Dreiecks- oder Vierecksfacetten beschrieben.",
+        "correct": true
+      },
+      {
+        "text": "Die Punktewolke wird direkt in den G-Code umgewandelt.",
+        "correct": false
+      },
+      {
+        "text": "Gekrümmte Oberflächen werden als Annäherungen durch Polyeder dargestellt.",
+        "correct": true
+      },
+      {
+        "text": "Die ursprüngliche Konstruktionsinformation in Form des Konstruktionskörpers bleibt erhalten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was bestimmt die Präzision eines gedruckten Objekts?",
+    "answers": [
+      {
+        "text": "Die Eigenschaften des Druckers.",
+        "correct": true
+      },
+      {
+        "text": "Die verwendete Auflösung (Schichtdicke).",
+        "correct": true
+      },
+      {
+        "text": "Die verwendete CAD-Software.",
+        "correct": false
+      },
+      {
+        "text": "Der Ort, an dem die Stützstrukturen angebracht werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Methoden kommen beim 'Reverse Engineering' zur Akquise von Rohdaten zum Einsatz?",
+    "answers": [
+      {
+        "text": "Direkte Erstellung eines vorhandenen Objekts durch einen optischen 3D-Scanner.",
+        "correct": true
+      },
+      {
+        "text": "Indirekte Erstellung eines Objekts nach einem Abdruck mittels optischem 3D-Scanner.",
+        "correct": true
+      },
+      {
+        "text": "Abtastung der Oberfläche mit einem DLP-Projektor.",
+        "correct": false
+      },
+      {
+        "text": "Erstellung einer 2D-Zeichnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Aussage trifft auf die Arbeitsteilung in der modernen Prothetik zu?",
+    "answers": [
+      {
+        "text": "Sie ist nur in der Kooperation zwischen Zahnmedizin und Zahntechnik realisierbar.",
+        "correct": true
+      },
+      {
+        "text": "Die Abformung (konventionell oder digital) ist das verbindende Glied zwischen zahnärztlicher und zahntechnischer Tätigkeit.",
+        "correct": true
+      },
+      {
+        "text": "Ein digitales, virtuelles Modell ersetzt immer das klassische 'Meistermodell'.",
+        "correct": false
+      },
+      {
+        "text": "Die Abformung ist in der restaurativen Zahnheilkunde nicht mehr notwendig.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wie wird der Rechenprozess genannt, bei dem Informationen aus verschiedenen Bildern eines Kiefers überlagert werden, um ein vollständiges digitales Modell zu erzeugen?",
+    "answers": [
+      {
+        "text": "Slicing.",
+        "correct": false
+      },
+      {
+        "text": "Matching.",
+        "correct": true
+      },
+      {
+        "text": "Tessellation.",
+        "correct": false
+      },
+      {
+        "text": "Stitching.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Auf welchen Prinzipien beruht das Wavefront Sampling Verfahren zur Datenakquisition?",
+    "answers": [
+      {
+        "text": "Dem 'depth-from-focus'-Prinzip.",
+        "correct": true
+      },
+      {
+        "text": "Dem Triangulationsprinzip.",
+        "correct": true
+      },
+      {
+        "text": "Der konfokalen Datenakquisition.",
+        "correct": false
+      },
+      {
+        "text": "Dem selektiven Laserschmelzen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Maßnahme ist beim Wavefront Sampling Verfahren oft notwendig, um identische Punkte aus unterschiedlichen Perspektiven zu identifizieren?",
+    "answers": [
+      {
+        "text": "Eine leichte Puderung der Oberfläche.",
+        "correct": true
+      },
+      {
+        "text": "Die Verwendung eines 385 nm Lasers.",
+        "correct": false
+      },
+      {
+        "text": "Eine UV-Endhärtung.",
+        "correct": false
+      },
+      {
+        "text": "Die Erstellung einer Punktewolke.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welches Messprinzip eliminiert Licht, das von vor oder hinter der Fokusebene liegenden Objekten diffus reflektiert wird?",
+    "answers": [
+      {
+        "text": "Wavefront Sampling.",
+        "correct": false
+      },
+      {
+        "text": "Konfokale Datenakquisition.",
+        "correct": true
+      },
+      {
+        "text": "Streifenlichtsystem.",
+        "correct": false
+      },
+      {
+        "text": "Triangulationsprinzip.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Aussage trifft auf die konfokale Scantechnik zu?",
+    "answers": [
+      {
+        "text": "Sie ist in ihrer Funktion mit einem optischen Entfernungsmesser vergleichbar.",
+        "correct": true
+      },
+      {
+        "text": "Die Handstücke dieser Systeme sind vergleichsweise groß dimensioniert.",
+        "correct": true
+      },
+      {
+        "text": "Eine Puderung zur Datengewinnung ist generell zwingend notwendig.",
+        "correct": false
+      },
+      {
+        "text": "Sie wird im Zusammenhang mit der G-Code-Erzeugung verwendet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche allgemeine Einschränkung gilt für alle Scanner, die auf einer optischen Erfassung der Strukturen beruhen?",
+    "answers": [
+      {
+        "text": "Sie können nur Areale erfassen, die direkt einsehbar sind.",
+        "correct": true
+      },
+      {
+        "text": "Sie können nur mit gepuderten Oberflächen arbeiten.",
+        "correct": false
+      },
+      {
+        "text": "Die Genauigkeit ist immer geringer als bei konventionellen Abformungen.",
+        "correct": false
+      },
+      {
+        "text": "Sie benötigen immer eine Doppelkamera.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Nachteile hat das konfokale Scansystem (im Vergleich zu anderen optischen Systemen)?",
+    "answers": [
+      {
+        "text": "Die Handstücke sind oft zu groß, was in distalen Zahnbogenanteilen zu Problemen führen kann.",
+        "correct": true
+      },
+      {
+        "text": "Es kann keine Puderung zur Datengewinnung verwendet werden.",
+        "correct": false
+      },
+      {
+        "text": "Es funktioniert nicht bei Patienten mit reduzierter Mundöffnung.",
+        "correct": true
+      },
+      {
+        "text": "Die erreichbaren Genauigkeiten sind sehr gering.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was sind wesentliche Nachteile der subtraktiven Fertigung (Fräsen) im Vergleich zur additiven Fertigung (3D-Druck)?",
+    "answers": [
+      {
+        "text": "Es entstehen Verluste von bis zu 90% des Ausgangsmaterials.",
+        "correct": true
+      },
+      {
+        "text": "Die Notwendigkeit, Stützstrukturen manuell zu entfernen.",
+        "correct": false
+      },
+      {
+        "text": "Komplexe oder unter sich gehende Geometrien sind kaum herstellbar.",
+        "correct": true
+      },
+      {
+        "text": "Hoher Verschleiß an den verwendeten Fräswerkzeugen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Welche Formen von Geometrien können durch Fräsen nur schwer oder gar nicht hergestellt werden?",
+    "answers": [
+      {
+        "text": "Einfache, symmetrische Blockformen.",
+        "correct": false
+      },
+      {
+        "text": "Unter sich gehende Geometrien.",
+        "correct": true
+      },
+      {
+        "text": "Hohlkörper oder Gitterstrukturen.",
+        "correct": true
+      },
+      {
+        "text": "Oberflächen mit nur geringer Rauigkeit.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist der Hauptunterschied zwischen additiven und subtraktiven Verfahren in Bezug auf das Ausgangsmaterial?",
+    "answers": [
+      {
+        "text": "Die additive Fertigung startet mit einem Rohling, von dem Material abgetragen wird.",
+        "correct": false
+      },
+      {
+        "text": "Die subtraktive Fertigung verwendet ein Pulver, das Schicht für Schicht aufgebaut wird.",
+        "correct": false
+      },
+      {
+        "text": "Die additive Fertigung baut das Objekt aus einzelnen Schichten auf, während die subtraktive Fertigung Material von einem Block entfernt.",
+        "correct": true
+      },
+      {
+        "text": "Subtraktive Verfahren haben eine deutlich höhere Materialausbeute.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Herausforderungen sind beim Fräsen (subtraktiv) mit den Werkzeugen verbunden?",
+    "answers": [
+      {
+        "text": "Die Notwendigkeit, das Fräswerkzeug aufgrund von Verschleiß häufig zu ersetzen.",
+        "correct": true
+      },
+      {
+        "text": "Die Werkzeuge müssen exakt an die Form des zu fertigenden Objekts angepasst werden.",
+        "correct": true
+      },
+      {
+        "text": "Die Fräswerkzeuge haben eine unbegrenzte Lebensdauer.",
+        "correct": false
+      },
+      {
+        "text": "Die Kosten für die Fräswerkzeuge sind im Vergleich zu den Verbrauchsmaterialien im 3D-Druck vernachlässigbar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was ist ein Vorteil des Fräsens im Vergleich zu einigen 3D-Druckverfahren wie FDM (Fused Deposition Modeling)?",
+    "answers": [
+      {
+        "text": "Es ist besser geeignet für die Herstellung komplexer Hohlstrukturen.",
+        "correct": false
+      },
+      {
+        "text": "Es gibt nahezu keinen Materialverlust.",
+        "correct": false
+      },
+      {
+        "text": "Fräsen ermöglicht eine bessere Oberflächengüte und Genauigkeit bei bestimmten Materialien.",
+        "correct": true
+      },
+      {
+        "text": "Es können nur Metalle verarbeitet werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche Funktion erfüllt die CAD-Software im gesamten digitalen Workflow?",
+    "answers": [
+      {
+        "text": "Sie dient als Grundlage für die Konstruktionsdatei jeder gedruckten Apparatur.",
+        "correct": true
+      },
+      {
+        "text": "Sie dient ausschließlich der Erstellung der G-Code-Datei.",
+        "correct": false
+      },
+      {
+        "text": "Sie erzeugt automatisch die Punktewolke aus der konventionellen Abformung.",
+        "correct": false
+      },
+      {
+        "text": "Sie ersetzt das Fräsen von Werkstücken komplett.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Welche historische Entwicklung führte zur Entstehung des CAD-Prinzips?",
+    "answers": [
+      {
+        "text": "Die Entwicklung der Stereolithografie (SLA) im Jahr 1984.",
+        "correct": false
+      },
+      {
+        "text": "Die Entwicklung von DAC-1 (Design Augmented by Computers) durch General Motors im Jahr 1963.",
+        "correct": true
+      },
+      {
+        "text": "Die Einführung des G-Codes am MIT in den 1950er-Jahren.",
+        "correct": false
+      },
+      {
+        "text": "Die Erfindung der konfokalen Scansysteme.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Was versteht man unter den grundlegenden Prinzipien des CAD-Konstruierens?",
+    "answers": [
+      {
+        "text": "Die manuelle Bearbeitung von Gipsmodellen.",
+        "correct": false
+      },
+      {
+        "text": "Die Konstruktion erfolgt in einem dreidimensionalen Raum (3D-Körper).",
+        "correct": true
+      },
+      {
+        "text": "Die Arbeit basiert auf Skizzen und der anschließenden Extrusion, Rotation oder Lofts.",
+        "correct": true
+      },
+      {
+        "text": "Das direkte Auslesen von Patientendaten aus der DVT.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Warum ist das CAD-Design elementar für die Anwendung von Bohrschablonen (Backward Planning) in der Implantologie?",
+    "answers": [
+      {
+        "text": "Die CAD-Software ermöglicht die virtuelle Platzierung des geplanten Zahnersatzes vor der chirurgischen Planung.",
+        "correct": true
+      },
+      {
+        "text": "Nur CAD-Software kann die CT/DVT-Daten in eine druckbare STL-Datei umwandeln.",
+        "correct": true
+      },
+      {
+        "text": "Die CAD-Software erstellt automatisch die Schichtdicken für den 3D-Drucker.",
+        "correct": false
+      },
+      {
+        "text": "Sie dient der exakten Konstruktion der Schablone, die den Therapieweg vorgibt.",
+        "correct": true
+      }
+    ]
+  }
+]
